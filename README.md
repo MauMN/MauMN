@@ -11,6 +11,8 @@
 </p>
 
 <h3 align="left">📫 Connect with me:</h3>
+
+<div>
 <p align="left">
     <a href="https://linkedin.com/in/mauro-navarra-9977931b9/" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
@@ -108,7 +110,7 @@
     <a href="https://airflow.apache.org/" target="_blank"
     rel="noreferrer"> <img
         src="https://static-00.iconduck.com/assets.00/airflow-icon-256x256-la90eetn.png"
-        alt="airflow" width="40" height="40" /> </a> </p>
+        alt="airflow" width="40" height="40" /> </a> </p></div>
 
 <p><img align="center"
         src="https://github-readme-stats.vercel.app/api/top-langs?username=maumn&show_icons=true&locale=en&layout=compact"
