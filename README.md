@@ -4,8 +4,8 @@
 
 <p>I'm a Data Analyst from Argentina. I have an academic background in the biology field, particularly in neurobiology. 
     I'm currently researching and writing for my graduate thesis, wich consist in applying biologically plausible deep learning models
-    to understand exactly under wich conditions the Grid Cells and Place Cells (certain type of neurons present in mammals used to navigate space) can emerge.
-    Given that biology is a heavily data-centered field, i started analysing data as part of my university studies, and i inmediantly liked that part of that scientific method the best.
+    to understand exactly under wich conditions the Grid Cells and Place Cells (certain type of neurons present in mammals and birds used for space navigation) can emerge.
+    Given that biology is a heavily data-centered field, i started analysing data as part of my university studies, and i inmediantly liked that part of that scientific process the best.
     I took several courses on Data Analytics and learned various tools, and i'm applying that knowledge in different personal projects analysing different types of datasets, primarly with Python/R and SQL,
     but also with popular visualizations tools like Tableau and Power BI.
 </p>
@@ -80,7 +80,7 @@
             width="40" height="40" /> </a> 
 </p>
 
-- 🌱 I’m currently leveling up my knowledge in:
+- 🌱 I’m currently growing my knowledge in:
 <p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
     alt="aws" width="40" height="40" /> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
