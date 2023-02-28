@@ -80,7 +80,7 @@
             width="40" height="40" /> </a> 
 </p>
 
-- 🌱 I’m currently growing my knowledge in:
+<h3 align="left">🌱 I’m currently growing my knowledge in:</h3>
 <p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
     alt="aws" width="40" height="40" /> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
