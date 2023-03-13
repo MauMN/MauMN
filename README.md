@@ -99,7 +99,7 @@
     <a href="https://www.selenium.dev/" target="_blank"
         rel="noreferrer"> 
         <img src="https://softwarereviews.s3.amazonaws.com/production/favicons/offerings/7361/original/1_v7l9L2x3DkOzcnAhDbYNmQ.png"
-        alt="selenium" width="40" height="40" /> </a> </p>
+        alt="selenium" width="40" height="40" /> </a>
     <a href="https://scrapy.org/" target="_blank"
         rel="noreferrer"> 
         <img src="https://b.thumbs.redditmedia.com/e2dMSMwIGoSHH0kHGrQk83oDxo-qy43aKJxlHKDv-ZU.png"
