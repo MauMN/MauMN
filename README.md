@@ -81,16 +81,31 @@
 </p>
 
 <h3 align="left">🌱 I’m currently growing my knowledge in:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
-    alt="aws" width="40" height="40" /> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
+    alt="aws" width="40" height="40" /> </a> 
+    <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
     alt="docker" width="40" height="40" /> </a> 
     <a href="https://airflow.apache.org/" target="_blank"
     rel="noreferrer"> <img
         src="https://static-00.iconduck.com/assets.00/airflow-icon-256x256-la90eetn.png"
         alt="airflow" width="40" height="40" /> </a> </p>
 
+<h3 align="left">🌱 Starting with:</h3>
+<p align="left"> <a href="https://spark.apache.org/" target="_blank" rel="noreferrer"> <img
+    src="https://trendskout.com/wp-content/uploads/2022/04/apache_spark.jpg.webp"
+    alt="spark" width="40" height="40" /> </a> 
+    <a href="https://www.selenium.dev/" target="_blank"
+        rel="noreferrer"> 
+        <img src="https://softwarereviews.s3.amazonaws.com/production/favicons/offerings/7361/original/1_v7l9L2x3DkOzcnAhDbYNmQ.png"
+        alt="selenium" width="40" height="40" /> </a> </p>
+    <a href="https://scrapy.org/" target="_blank"
+        rel="noreferrer"> 
+        <img src="https://b.thumbs.redditmedia.com/e2dMSMwIGoSHH0kHGrQk83oDxo-qy43aKJxlHKDv-ZU.png"
+        alt="scrapy" width="40" height="40" /> </a> </p>        
+
 <p><img align="center"
         src="https://github-readme-stats.vercel.app/api/top-langs?username=maumn&show_icons=true&locale=en&layout=compact"
         alt="maumn" /></p>
+        
