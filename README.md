@@ -96,14 +96,7 @@
 <p align="left"> <a href="https://spark.apache.org/" target="_blank" rel="noreferrer"> <img
     src="https://trendskout.com/wp-content/uploads/2022/04/apache_spark.jpg.webp"
     alt="spark" width="40" height="40" /> </a> 
-    <a href="https://www.selenium.dev/" target="_blank"
-        rel="noreferrer"> 
-        <img src="https://softwarereviews.s3.amazonaws.com/production/favicons/offerings/7361/original/1_v7l9L2x3DkOzcnAhDbYNmQ.png"
-        alt="selenium" width="40" height="40" /> </a>
-    <a href="https://scrapy.org/" target="_blank"
-        rel="noreferrer"> 
-        <img src="https://b.thumbs.redditmedia.com/e2dMSMwIGoSHH0kHGrQk83oDxo-qy43aKJxlHKDv-ZU.png"
-        alt="scrapy" width="40" height="40" /> </a> </p>        
+       
 
 <p><img align="center"
         src="https://github-readme-stats.vercel.app/api/top-langs?username=maumn&show_icons=true&locale=en&layout=compact"
