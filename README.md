@@ -31,7 +31,20 @@
     <a href="https://airflow.apache.org/" target="_blank"
     rel="noreferrer"> <img
         src="https://static-00.iconduck.com/assets.00/airflow-icon-256x256-la90eetn.png"
-        alt="airflow" width="40" height="40" /> </a> </p>
+        alt="airflow" width="40" height="40" /> </a>
+                    <a href="https://www.linux.org/" target="_blank"
+            rel="noreferrer"> <img
+                src="https://1000logos.net/wp-content/uploads/2017/03/LINUX-LOGO.png"
+                alt="linux" width="40" height="40" /> </a> 
+                    <a href="https://www.gnu.org/software/bash/" target="_blank"
+            rel="noreferrer"> <img
+                src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/2048px-Bash_Logo_Colored.svg.png"
+                alt="bash" width="40" height="40" /> </a> 
+             <a href="https://www.oracle.com/" target="_blank"
+                rel="noreferrer"> <img
+                src="https://w7.pngwing.com/pngs/98/646/png-transparent-oracle-corporation-oracle-webcenter-oracle-database-oracle-e-business-suite-oracle-applications-others-text-trademark-logo-thumbnail.png"
+                alt="oracle" width="40" height="40" /> </a>    
+                </br>
             <a href="https://www.postgresql.org" target="_blank"
             rel="noreferrer"> <img
                 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
@@ -55,6 +68,7 @@
             </a> 
             <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img
                 src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40" /> </a>
+                </br>
             <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img
                 src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /> </a> 
             <a href="https://flask.palletsprojects.com/" target="_blank"
@@ -64,7 +78,6 @@
         target="_blank" rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
             alt="javascript" width="40" height="40" /> </a> 
-            <br>
                         <a href="https://www.microsoft.com/es-es/microsoft-365/excel" target="_blank"
                 rel="noreferrer"> <img
                     src="https://a2capacitacion.com/img/excellogo.ico"
