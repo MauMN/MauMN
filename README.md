@@ -104,11 +104,10 @@
 <h3 align="left">🌱 Starting with:</h3>
 <p align="left"> <a href="https://spark.apache.org/" target="_blank" rel="noreferrer"> <img
     src="https://trendskout.com/wp-content/uploads/2022/04/apache_spark.jpg.webp"
-    alt="spark" width="40" height="40" /> </a> 
-
-<p align="left"> <a href="https://kubernetes.io/" target="_blank" rel="noreferrer"> <img
+    alt="spark" width="40" height="40" /> </a>
+<a href="https://kubernetes.io/" target="_blank" rel="noreferrer"> <img
     src="https://static-00.iconduck.com/assets.00/kubernetes-color-icon-256x256-t8ualzkj.png"
-    alt="k8s" width="40" height="40" /> </a> 
+    alt="k8s" width="40" height="40" /> </a> </p>
        
 
 <p><img align="center"
